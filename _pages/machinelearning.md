@@ -2,7 +2,7 @@
 layout: archive
 permalink: /machine-learing/
 title: "Machine Learning Posts by Tags"
-
+author_profile: true
 ---
 
 {% include base_path %}
