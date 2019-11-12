@@ -108,17 +108,17 @@ analytics:
 # Site Author
 author:
   name             : "Zhumakhan Aramn"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/my_photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Hong Kong"
   email            : 
   links:
-    - label: "Email"
+    - label: "arman310501@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:arman310501@gmail.com
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/arman-zhumakhan/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
