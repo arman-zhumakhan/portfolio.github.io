@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "My resume"
+    url: /file/resume.pdf
   - title: "Machine Learning"
     url: /machine-learning/
   # - title: "Sample Posts"
