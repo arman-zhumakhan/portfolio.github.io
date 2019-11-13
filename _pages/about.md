@@ -1,9 +1,16 @@
 ---
 layout: archive
-permalink: /file/resume.pdf
-title: "my CV"
+permalink: /about/
+title: "Zhumakhan Arman"
 author_profile: true
 
 ---
+## Short biography
 
-I'm a data science student at City University of Hong Kong. Despite the courses at the university, I take online Python, Machine Learning courses to develop myself.
+- Data Science student at City University of Hong Kong
+- live at Student Residence of City University of Hong Kong
+- from **Kazakhstan**
+- life-long learner
+- Student Ambassador of School of Data Science
+- a member of Hall 2 football team
+- finish Nazarbayev Intellectual School in Aktau, Kazakhstan

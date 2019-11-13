@@ -2,8 +2,8 @@
 main:
   - title: "My resume"
     url: /file/resume.pdf
-  - title: "Machine Learning"
-    url: /machine-learning/
+  - title: "About me"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
