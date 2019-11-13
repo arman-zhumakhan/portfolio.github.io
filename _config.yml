@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhumakhan Aramn"
+  name             : "Zhumakhan Arman"
   avatar           : "/images/my_photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Hong Kong"
