@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "Network of airports and routes between them. \nNodes -airports\nEdges - routes",
-    "intro": "Network of airports and flight routes between them.\nThe network is made using OpenFlights data.\nAuthor is Arman Zhumakhan",
+    "intro": "Network of airports and routes between them",
     "title": "Flight routes"
   },
   "legend": {
@@ -20,7 +20,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "dim"
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
